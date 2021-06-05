@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashKhobare
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me gmail: akashkhobare14
 
 <!---
