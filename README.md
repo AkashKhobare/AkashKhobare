@@ -1,4 +1,4 @@
-- Hey! I’m Akash Khobare, Thanks for visiting my github profile.
+- Hey! I’m Akash Khobare. Thanks for visiting my github profile.
 - I’m a Java Full Stack Developer
 - I'm motivited to develop easily understandable, maintainable, extensible apps following standard development guidelines/concepts like SOLID principles, OOPS concepts
 - I'm involved in activities like requirement gathering, sprint planning, feature developement, bug fixing, devops, mentoring, code review
