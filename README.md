@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @AkashKhobare
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me gmail: akashkhobare14
-
-<!---
-AkashKhobare/AkashKhobare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey! I’m Akash Khobare, Thanks for visiting my github profile.
+- I’m a Java Full Stack Developer
+- I'm motivited to develop easily understandable, maintanable, extensible apps following standard development guidelines/concepts like SOLID principles, OOPS concepts
+- I'm involved in activities like requirement gathering, sprint planning, feature developement, bug fixing, devops, mentoring, code review
+- Technologies I've worked upon: J2EE, Sprint Boot, Hibernate, JPA, PostgreSQL, Angular, Docker, Azure
+- I'm always ready to learn new technologies
+- Please feel free to reach out me over: akashkhobare14@gmail.com
